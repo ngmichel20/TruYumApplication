@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/EurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoginAuth/LoginAuth.iml" filepath="$PROJECT_DIR$/LoginAuth/LoginAuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Menu-items/Menu-items.iml" filepath="$PROJECT_DIR$/Menu-items/Menu-items.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TruYumApplication.iml" filepath="$PROJECT_DIR$/.idea/TruYumApplication.iml" />
+    </modules>
+  </component>
+</project>
