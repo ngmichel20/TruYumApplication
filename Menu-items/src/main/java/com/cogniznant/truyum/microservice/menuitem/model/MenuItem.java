@@ -27,6 +27,14 @@ public class MenuItem {
     private String category;
     private boolean freeDelivery;
 
-//    @Column(name = "me_url")
+    public MenuItem(int id, String name, double price, String category, boolean freeDelivery) {
+        this.id = id;
+        this.name = name;
+        this.price = price;
+        this.category = category;
+        this.freeDelivery = freeDelivery;
+    }
+
+    //    @Column(name = "me_url")
 //    String url;
 }

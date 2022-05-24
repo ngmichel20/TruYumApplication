@@ -1,4 +1,4 @@
-package com.cogniznant.truyum;
+package com.cogniznant.truyum.microservice.menuitem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

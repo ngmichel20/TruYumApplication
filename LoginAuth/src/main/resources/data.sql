@@ -1,4 +1,4 @@
--- CREATE DETAULT ROLES FOR RETAIL BANKING SYSTEM
+-- CREATE DETAULT ROLES FOR TRUYUM APP
 INSERT INTO role (id, description, name) VALUES (1, 'Employee role', 'EMPLOYEE');
 INSERT INTO role (id, description, name) VALUES (2, 'Customer role', 'CUSTOMER');
 
